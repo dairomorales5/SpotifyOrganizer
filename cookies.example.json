@@ -1,0 +1,247 @@
+[
+  {
+    "name": "sp_t",
+    "value": "",
+    "domain": ".spotify.com",
+    "path": "/",
+    "expires": "",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "_gcl_au",
+    "value": "",
+    "domain": ".spotify.com",
+    "path": "/",
+    "expires": "",
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "sp_adid",
+    "value": "",
+    "domain": ".spotify.com",
+    "path": "/",
+    "expires": "",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "OptanonAlertBoxClosed",
+    "value": "",
+    "domain": ".spotify.com",
+    "path": "/",
+    "expires": "",
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "sp_dc",
+    "value": "",
+    "domain": ".spotify.com",
+    "path": "/",
+    "expires": "",
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "sp_key",
+    "value": "",
+    "domain": ".spotify.com",
+    "path": "/",
+    "expires": "",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "sp_m",
+    "value": "",
+    "domain": ".spotify.com",
+    "path": "/",
+    "expires": "",
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "sp_last_utm",
+    "value": "",
+    "domain": ".spotify.com",
+    "path": "/",
+    "expires": "",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "sp_gaid",
+    "value": "",
+    "domain": ".spotify.com",
+    "path": "/",
+    "expires": "",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "_cs_c",
+    "value": "",
+    "domain": ".spotify.com",
+    "path": "/",
+    "expires": "",
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_scid",
+    "value": "",
+    "domain": ".spotify.com",
+    "path": "/",
+    "expires": "",
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_hp5_event_props.4043975597",
+    "value": "",
+    "domain": ".spotify.com",
+    "path": "/",
+    "expires": "",
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ScCbts",
+    "value": "",
+    "domain": ".spotify.com",
+    "path": "/",
+    "expires": "",
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_sctr",
+    "value": "",
+    "domain": ".spotify.com",
+    "path": "/",
+    "expires": "",
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_scid_r",
+    "value": "",
+    "domain": ".spotify.com",
+    "path": "/",
+    "expires": "",
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_hp5_meta.4043975597",
+    "value": "",
+    "domain": ".spotify.com",
+    "path": "/",
+    "expires": "",
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_cs_id",
+    "value": "",
+    "domain": ".spotify.com",
+    "path": "/",
+    "expires": "",
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga_S35RN5WNT2",
+    "value": "",
+    "domain": ".spotify.com",
+    "path": "/",
+    "expires": "",
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "sp_landing",
+    "value": "",
+    "domain": ".spotify.com",
+    "path": "/",
+    "expires": "",
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "_gid",
+    "value": "",
+    "domain": ".spotify.com",
+    "path": "/",
+    "expires": "",
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "sss",
+    "value": "",
+    "domain": "open.spotify.com",
+    "path": "/",
+    "expires": "",
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_ga",
+    "value": "",
+    "domain": ".spotify.com",
+    "path": "/",
+    "expires": "",
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_ga_ZWG1NSHWD8",
+    "value": "",
+    "domain": ".spotify.com",
+    "path": "/",
+    "expires": "",
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "OptanonConsent",
+    "value": "",
+    "domain": ".spotify.com",
+    "path": "/",
+    "expires": "",
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga_BMC5VGR8YS",
+    "value": "",
+    "domain": ".spotify.com",
+    "path": "/",
+    "expires": "",
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_ga_ZWRF3NLZJZ",
+    "value": "",
+    "domain": ".spotify.com",
+    "path": "/",
+    "expires": "",
+    "httpOnly": false,
+    "secure": false
+  }
+]

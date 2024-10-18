@@ -10,11 +10,11 @@ Spotify Organizer helps you organize your liked songs by genre, mood, and more, 
 - **Hands-Free Experience**: After setting up, your playlists will be automatically organized.
 
 ## How It Works
-1. **Authorize Access**: Grant us permission to access your Spotify library.
-2. **Provide OpenAI API Key**: You'll need an OpenAI API key for song classification.
+1. **Authorize Access**: By locally saving your browser cookies into a `cookies.json` file, we can access your account, password-free!
+2. **Provide an OpenAI API Key**: You'll need an OpenAI API key for song classification.
 3. **Automatic Playlist Organization**: The AI analyzes your liked songs and creates curated playlists based on the song attributes.
 4. **Extra Input (Optional)**: If you wish, add custom descriptions to further refine playlist creation.
-5. **Enjoy**: Sit back and enjoy the improved playlists! We hope you can discover new songs with Spotify-provided playlists radio.
+5. **Enjoy**: Sit back and enjoy the improved playlists! We hope you can discover new songs with Spotify's playlists radios.
 
 ## Getting Started
 
@@ -25,7 +25,12 @@ Ensure you have the necessary dependencies installed before proceeding. Run the 
 pip install -r requirements.txt
 ```
 
-### Step 2: Execute the Jupyter Notebook
+### Step 2: Download Your Cookies JSON
+
+Download your browser web page cookies by visiting [open.spotify.com](https://open.spotify.com/) and using a tool like [this browser extension](https://chromewebstore.google.com/detail/export-cookie-json-file-f/nmckokihipjgplolmcmjakknndddifde) to export the cookies into a `cookies.json` file. This will allow local access to your Spotify Web Player without needing a password.
+
+
+### Step 3: Execute the Jupyter Notebook
 Run the project by opening and executing the `SpotifyOrganizer.ipynb` notebook:
 
 ### Requirements
