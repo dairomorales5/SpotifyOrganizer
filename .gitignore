@@ -1,0 +1,4 @@
+.env
+cookies.json
+*.pkl
+lemma_file.json

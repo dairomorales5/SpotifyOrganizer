@@ -3,3 +3,6 @@ openai==1.40.6
 pandas==1.5.3
 selenium==4.19.0
 webdriver_manager==4.0.2
+spacy==3.8.4
+nltk==3.9.1
+langdetect==1.0.9
